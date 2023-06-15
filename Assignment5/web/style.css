@@ -1,0 +1,53 @@
+body{
+    background-color: red;
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+
+h1{
+    margin-top:150px;
+    font-size:100px;
+}
+
+#link {
+    padding-bottom:200px;
+}
+
+#shipPic    {
+    margin-top: 20px;
+    width: 300px;
+    height: 200px;
+}
+
+.myOwn  {
+    background-color: yellow;
+    color: red;
+    padding-right: 20px;
+}
+
+.container {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: black;
+  margin-top:10px;
+  width: 60%; /* Adjust the width value as needed */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#textbox   {
+    margin-top:20px;
+}
+
+.containerTwo {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: black;
+  margin-top:10px;
+  width: 20%; /* Adjust the width value as needed */
+  margin-left: auto;
+  margin-right: auto;
+}
